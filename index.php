@@ -503,7 +503,7 @@
 					<ul id="portfolio_grid">
 						<li class="mix angular">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/angular/easyweddings/1.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/Angular/easyweddings/1.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -513,7 +513,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/angular/easyweddings/2.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/Angular/easyweddings/2.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Weddings</h3>
@@ -530,7 +530,7 @@
 
 						<li class="mix angular">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/angular/opensponsorship/home.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/Angular/opensponsorship/home.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -540,7 +540,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/angular/opensponsorship/cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/Angular/opensponsorship/cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">OpenSponsorshiop</h3>
@@ -558,7 +558,7 @@
 
 						<li class="mix angular">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/angular/touriocity/home.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/Angular/touriocity/home.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -568,7 +568,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/angular/touriocity/cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/Angular/touriocity/cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">TRAVEL CURIOUS</h3>
@@ -586,7 +586,7 @@
 
 						<li class="mix react">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/react/carelinx/home.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/React/carelinx/home.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -596,7 +596,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/react/carelinx/cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/React/carelinx/cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Caregivers & Home Care</h3>
@@ -615,7 +615,7 @@
 
 						<li class="mix react">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/react/citymap/home.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/React/citymap/home.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -625,7 +625,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/react/citymap/cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/React/citymap/cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Map Your World</h3>
@@ -642,7 +642,7 @@
 
 						<li class="mix react">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/react/topvilla/home.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/React/topvilla/home.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -652,7 +652,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/react/topvilla/cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/React/topvilla/cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Top Villas</h3>
@@ -669,7 +669,7 @@
 
 						<li class="mix magento">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/magento/bailey/home.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/Magento/bailey/home.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -679,7 +679,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/magento/bailey/cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/Magento/bailey/cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Shopping | Clothing for Woman</h3>
@@ -696,7 +696,7 @@
 
 						<li class="mix magento">
 					    	<a href="#portfolio_popup">
-					    		<img src="img/portfolio/magento/missguided/home.png" alt="img" width="220" height="170" />
+					    		<img src="img/portfolio/Magento/missguided/home.png" alt="img" width="220" height="170" />
 					    		<div class="main">
 					    			<div class="inner">
 						    			<i class="fa fa-picture-o licon"></i>
@@ -706,7 +706,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/magento/missguided/cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/Magento/missguided/cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Shopping | Ladies Fashion</h3>
