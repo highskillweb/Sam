@@ -814,7 +814,7 @@
 					    	</a>
 				    		<div class="popup_information">
                                 <div class="top">
-                                    <img src="img/portfolio/ang1_cont.png" alt="img" width="220" height="170" />
+                                    <img src="img/portfolio/shopify6_cont.png" alt="img" width="220" height="170" />
                                 </div>
                                 <div class="bottom">
                                     <h3 class="title">Anti Aging Skin Care</h3>
